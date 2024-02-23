@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1708698536 source:d:\data structure\last project edit\bqms\main.cpp
+	<iostream>
+	"bank.h"
+
+1708698476 d:\data structure\last project edit\bqms\include\bank.h
+	<queue>
+	"teller.h"
+	"customer.h"
+
+1708295851 d:\data structure\last project edit\bqms\include\teller.h
+	"customer.h"
+	<iostream>
+
+1708289620 d:\data structure\last project edit\bqms\include\customer.h
+
